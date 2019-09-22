@@ -1,0 +1,23 @@
+/*!
+Theme Name: Clean
+Theme URI: http://www.Cleantheme.me/
+Author: Umair Chaudhry
+Author URI: http://www.umair.ch
+Description: Theme for Testing Purpose
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: test-theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.jumbotron {
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
